@@ -19,8 +19,8 @@ The ultrasonic sensor emits sound waves → receives echo → Arduino calculates
 
 ## Output
 
-### Hardware Setup
-![Setup](images/setup.png)
+### output
+![Setup](images/output.png)
 
 ## Applications
 - Obstacle detection  
